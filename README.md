@@ -33,3 +33,4 @@ References:
 - Quixel. *Forest Floor*. Available at: https://quixel.com/assets/sfjmafua [Accessed 23 February 2023].
 - Quixel. *Red Desert Sand*. Available at: https://quixel.com/assets/sj0jahwa [Accessed 23 February 2023].
 - Quixel. *Sleet on Grass*. Available at: https://quixel.com/assets/tfqifblr [Accessed 23 February 2023].
+- Vögtli, T. (2020) *Tree". Available at: https://opengameart.org/content/tree-24 [Accessed 07 May 2023].
